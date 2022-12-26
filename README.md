@@ -1,4 +1,3 @@
-
 # MNI-Assignments
 **Authors**: *Marika Spagna Zito* & [*Vincenzo Marrazzo*](https://github.com/xzan8189)
 
